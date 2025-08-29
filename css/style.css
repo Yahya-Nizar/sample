@@ -1,0 +1,39 @@
+.container-fluid{
+    background-color: rgb(48, 48, 48);
+}
+.yahya h1{
+    color: black;
+}
+.yahya input{
+    background-color: dodgerblue;
+    border-radius: 10%;
+    color: white;
+    padding: 7px;
+    border: none;
+}
+.yahya {
+    text-align: left;
+    margin-left: 10%;
+}
+body{
+    background-color: rgb(235, 235, 235);
+}
+.box{
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.box input{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    color: dodgerblue;
+    padding: 7px;
+    border-color: dodgerblue;
+}
+.home-content{
+  display: grid;
+  gap: 10px;
+  padding: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  
+}
